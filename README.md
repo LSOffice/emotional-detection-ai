@@ -1,3 +1,4 @@
 # emotional-detection-ai
 
-`python3 -m pip install opencv-python cvzone mediapipe --user --upgrade`
+`pip3 install opencv-python`
+`pip3 install cvzone`
