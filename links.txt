@@ -6,3 +6,5 @@ https://github.com/justinshenk/fer/blob/master/tests/test_fer.py
 https://stackoverflow.com/questions/35074549/how-to-load-a-model-from-an-hdf5-file-in-keras
 https://www.tensorflow.org/api_docs/python/tf/keras/models/load_model
 https://stackoverflow.com/questions/58838265/open-cv-compare-two-face-embeddings
+
+FEC dataset
